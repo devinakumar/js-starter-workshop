@@ -1,3 +1,5 @@
+// taken from http://cs52.me/assignments/sa3/
+
 const ExtractTextPlugin = require('extract-text-webpack-plugin');
 
 module.exports = {
